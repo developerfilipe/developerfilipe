@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 - 🌱 Spring, React e Docker
 - 📫 souzasantos101@gmail.com
 
+<div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=developerfilipe&theme=aura&show_icons=trueinclude">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerfilipe&layout=compact&langs_count=16&theme=aura">
+</div>
+
+
 ##
