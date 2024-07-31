@@ -1,4 +1,4 @@
-## Hi there 👋
+## Filipe Souza Santos
 
 <!--
 **developerfilipe/developerfilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Spring, React e Docker
+- 📫 souzasantos101@gmail.com
+
+##
