@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 - 🌱 Spring, React e Docker
 - 📫 souzasantos101@gmail.com
-
+<!--Graficos https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true-->
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=developerfilipe&theme=aura&show_icons=trueinclude">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerfilipe&layout=compact&langs_count=16&theme=aura">
 </div>
-
+<!--imagens dos icones: https://devicon.dev/-->
 <div style="display: inline_block"><br/>
   <img align="center" alt="Fil-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Fil-js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 
 ##
-
+<!--imagens dos icones: https://dev.to/envoy_/150-badges-for-github-pnk-->
 <div>
   <a href="mailto:souzasantos101@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/filipe-souza-santos25/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
