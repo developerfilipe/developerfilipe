@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Spring, Angular e Docker
+- 🌱 full cycle
 <!--Graficos https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true-->
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=developerfilipe&theme=aura&show_icons=trueinclude">
